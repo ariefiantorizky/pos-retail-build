@@ -1,0 +1,19 @@
+(LOCAL SERVER)
+########################################################
+https://55f1-180-252-171-192.ngrok-free.app
+http://192.168.2.123:81
+########################################################
+
+PANDUAN :
+
+1. Baris ketiga merupakan baris yang akan dibaca oleh SISTEM
+2. Jika anda ingin menggunakan local server api, maka letakkan pada baris KETIGA
+3. Gunakan dengan benar pada baris KETIGA tersebut
+4. Jika anda sudah mengedit/mengubahnya, mohon untuk melalukan refresh app 
+   sebanyak 2x untuk memastikan SISTEM membaca KONEKSI yang anda siapkan
+5. Untuk memastikan keberhasilannya, maka anda bisa mengaksesnya melalui
+   [IP_ANDA]/server.txt
+5. Jika ada pertanyaan, mohon hubungi tim IT, dan jangan mengubahnya sembarangan.
+
+Terima kasih,
+Ariefianto Rizky

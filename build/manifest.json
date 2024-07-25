@@ -3,12 +3,12 @@
 	"name": "SCAP POS RETAIL",
 	"icons": [
 		{
-			"src": "logo-192.png",
+			"src": "logo-192-1.png",
 			"type": "image/png",
 			"sizes": "192x192"
 		},
 		{
-			"src": "logo-512.png",
+			"src": "logo-512-1.png",
 			"type": "image/png",
 			"sizes": "512x512"
 		}
